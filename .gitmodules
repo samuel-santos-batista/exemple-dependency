@@ -1,0 +1,3 @@
+[submodule "py-clean-arq"]
+	path = py-clean-arq
+	url = https://github.com/samuel-santos-batista/py-clean-arq.git
